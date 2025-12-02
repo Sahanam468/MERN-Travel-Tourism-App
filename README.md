@@ -1,5 +1,28 @@
 # Travel and Tourism Management System MERN
 
+The project is built using the MERN stack, where React.js handles the entire user interface and frontend interactions, while Node.js and Express.js form the backend that processes requests and exposes REST API routes. All data such as users, travel packages, bookings, and ratings is stored in MongoDB, which is accessed using Mongoose for structured data handling. Since the whole project uses JavaScript on both frontend and backend, it ensures smooth communication, faster development, and a scalable full-stack web application.
+
+🔧 Technology Mapping
+
+🟦 React.js – Frontend (UI)
+Used to build all user-facing pages including Home, Login, Packages, Admin Dashboard, and Bookings.
+
+🟨 JavaScript – Core Language
+Used on both frontend and backend for logic, validation, API calls, and component interactions.
+
+🟩 Node.js – Backend Runtime
+Runs the server, handles API logic, processes requests, and communicates with MongoDB.
+
+🟧 Express.js – API Framework
+Used to create REST API endpoints for users, packages, bookings, ratings, and admin operations.
+
+🟪 MongoDB – Database
+Stores users, packages, bookings, ratings, history, and admin data in a scalable document format.
+
+🟫 Mongoose – ODM
+Defines schema, models, and provides a structured way to interact with the MongoDB database.
+
+
 # Screenshots
 ![HomePage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/504bb803-217d-402a-9087-fed08986d6b1)
 ![BookPackagePage](https://github.com/Sanjayng125/MERN-Travel-Tourism-App/assets/106653066/9733432f-e462-4eff-819e-66cba510c8b6)
